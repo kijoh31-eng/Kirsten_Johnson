@@ -1,0 +1,10 @@
+images/
+├── final-prototype.jpg
+├── cad-model.png
+├── pmw3389-sensor.jpg
+├── assembly-process.jpg
+└── z-axis-design.png
+
+  ## Prototype
+
+![Final haptic interface prototype](images/final-prototype.jpg)
