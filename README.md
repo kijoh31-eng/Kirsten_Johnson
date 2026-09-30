@@ -77,10 +77,5 @@ motion integration.
 - Complete GUI integration
 - Conduct additional testing
 
-images/
-├── final-prototype.jpg
-├── cad-model.png
-├── pmw3389-sensor.jpg
-├── assembly-process.jpg
-└── z-axis-design.png
+
 
